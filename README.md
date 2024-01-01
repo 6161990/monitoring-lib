@@ -1,4 +1,7 @@
-# devops prometheus
+## monitoring prometheus
+* grafana
+* dashboard
+* some rules, alerts
 
 ## init
 ```bash
